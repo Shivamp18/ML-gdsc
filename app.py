@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np 
 import pickle
 
-loaded_model = pickle.load(open('classifier(1).pkl', 'rb'))
+loaded_model = pickle.load(open('classifier (1).pkl', 'rb'))
 
 # creating a function for Prediction
 
